@@ -1,5 +1,5 @@
 # Custom_CRF_Modeling
-# generate GITHUB readme file based on syntactic_processing_custom_crf.ipynb code. licence Open for anyone. this is for learning purpose. 
+
 ## Overview
 
 This repository contains code for a Custom Conditional Random Field (CRF) model, as demonstrated in the `syntactic_processing_custom_crf.ipynb` notebook. The purpose of this project is to provide a learning resource for those interested in CRF models and their applications in syntactic processing.
